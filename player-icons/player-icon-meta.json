@@ -1,0 +1,322 @@
+[
+  {
+    "index": 13,
+    "id": "builtin-13",
+    "src": "player-icons/icon-13.png",
+    "label": "HIRO柴田",
+    "team": "EARTH JETS",
+    "sourceFile": "HIRO柴田.jpg"
+  },
+  {
+    "index": 14,
+    "id": "builtin-14",
+    "src": "player-icons/icon-14.png",
+    "label": "逢川恵夢",
+    "team": "EARTH JETS",
+    "sourceFile": "逢川恵夢.jpg"
+  },
+  {
+    "index": 15,
+    "id": "builtin-15",
+    "src": "player-icons/icon-15.png",
+    "label": "三浦智博",
+    "team": "EARTH JETS",
+    "sourceFile": "三浦智博.jpg"
+  },
+  {
+    "index": 16,
+    "id": "builtin-16",
+    "src": "player-icons/icon-16.png",
+    "label": "石井一馬",
+    "team": "EARTH JETS",
+    "sourceFile": "石井一馬.jpg"
+  },
+  {
+    "index": 17,
+    "id": "builtin-17",
+    "src": "player-icons/icon-17.png",
+    "label": "園田賢",
+    "team": "赤坂ドリブンズ",
+    "sourceFile": "園田賢.jpg"
+  },
+  {
+    "index": 18,
+    "id": "builtin-18",
+    "src": "player-icons/icon-18.png",
+    "label": "浅見真紀",
+    "team": "赤坂ドリブンズ",
+    "sourceFile": "浅見真紀.jpg"
+  },
+  {
+    "index": 19,
+    "id": "builtin-19",
+    "src": "player-icons/icon-19.png",
+    "label": "渡辺太",
+    "team": "赤坂ドリブンズ",
+    "sourceFile": "渡辺太.jpg"
+  },
+  {
+    "index": 20,
+    "id": "builtin-20",
+    "src": "player-icons/icon-20.png",
+    "label": "鈴木たろう",
+    "team": "赤坂ドリブンズ",
+    "sourceFile": "鈴木たろう.jpg"
+  },
+  {
+    "index": 21,
+    "id": "builtin-21",
+    "src": "player-icons/icon-21.png",
+    "label": "伊達朱里紗",
+    "team": "KONAMI麻雀格闘倶楽部",
+    "sourceFile": "伊達朱里紗.jpg"
+  },
+  {
+    "index": 22,
+    "id": "builtin-22",
+    "src": "player-icons/icon-22.png",
+    "label": "高宮まり",
+    "team": "KONAMI麻雀格闘倶楽部",
+    "sourceFile": "高宮まり.jpg"
+  },
+  {
+    "index": 23,
+    "id": "builtin-23",
+    "src": "player-icons/icon-23.png",
+    "label": "佐々木寿人",
+    "team": "KONAMI麻雀格闘倶楽部",
+    "sourceFile": "佐々木寿人.jpg"
+  },
+  {
+    "index": 24,
+    "id": "builtin-24",
+    "src": "player-icons/icon-24.png",
+    "label": "滝沢和典",
+    "team": "KONAMI麻雀格闘倶楽部",
+    "sourceFile": "滝沢和典.jpg"
+  },
+  {
+    "index": 25,
+    "id": "builtin-25",
+    "src": "player-icons/icon-25.png",
+    "label": "阿久津翔太",
+    "team": "KADOKAWAサクラナイツ",
+    "sourceFile": "阿久津翔太.jpg"
+  },
+  {
+    "index": 26,
+    "id": "builtin-26",
+    "src": "player-icons/icon-26.png",
+    "label": "岡田紗佳",
+    "team": "KADOKAWAサクラナイツ",
+    "sourceFile": "岡田紗佳.jpg"
+  },
+  {
+    "index": 27,
+    "id": "builtin-27",
+    "src": "player-icons/icon-27.png",
+    "label": "渋川難波",
+    "team": "KADOKAWAサクラナイツ",
+    "sourceFile": "渋川難波.jpg"
+  },
+  {
+    "index": 28,
+    "id": "builtin-28",
+    "src": "player-icons/icon-28.png",
+    "label": "堀慎吾",
+    "team": "KADOKAWAサクラナイツ",
+    "sourceFile": "堀慎吾.jpg"
+  },
+  {
+    "index": 29,
+    "id": "builtin-29",
+    "src": "player-icons/icon-29.png",
+    "label": "茅森早香",
+    "team": "セガサミーフェニックス",
+    "sourceFile": "茅森早香.jpg"
+  },
+  {
+    "index": 30,
+    "id": "builtin-30",
+    "src": "player-icons/icon-30.png",
+    "label": "浅井堂岐",
+    "team": "セガサミーフェニックス",
+    "sourceFile": "浅井堂岐.jpg"
+  },
+  {
+    "index": 31,
+    "id": "builtin-31",
+    "src": "player-icons/icon-31.png",
+    "label": "醍醐大",
+    "team": "セガサミーフェニックス",
+    "sourceFile": "醍醐大.jpg"
+  },
+  {
+    "index": 32,
+    "id": "builtin-32",
+    "src": "player-icons/icon-32.png",
+    "label": "竹内元太",
+    "team": "セガサミーフェニックス",
+    "sourceFile": "竹内元太.jpg"
+  },
+  {
+    "index": 33,
+    "id": "builtin-33",
+    "src": "player-icons/icon-33.png",
+    "label": "黒沢咲",
+    "team": "TEAM RAIDEN",
+    "sourceFile": "黒沢咲.jpg"
+  },
+  {
+    "index": 34,
+    "id": "builtin-34",
+    "src": "player-icons/icon-34.png",
+    "label": "瀬戸熊直樹",
+    "team": "TEAM RAIDEN",
+    "sourceFile": "瀬戸熊直樹.jpg"
+  },
+  {
+    "index": 35,
+    "id": "builtin-35",
+    "src": "player-icons/icon-35.png",
+    "label": "萩原聖人",
+    "team": "TEAM RAIDEN",
+    "sourceFile": "萩原聖人.jpg"
+  },
+  {
+    "index": 36,
+    "id": "builtin-36",
+    "src": "player-icons/icon-36.png",
+    "label": "本田朋広",
+    "team": "TEAM RAIDEN",
+    "sourceFile": "本田朋広.jpg"
+  },
+  {
+    "index": 37,
+    "id": "builtin-37",
+    "src": "player-icons/icon-37.png",
+    "label": "永井孝典",
+    "team": "EX風林火山",
+    "sourceFile": "永井孝典.jpg"
+  },
+  {
+    "index": 38,
+    "id": "builtin-38",
+    "src": "player-icons/icon-38.png",
+    "label": "勝又健志",
+    "team": "EX風林火山",
+    "sourceFile": "勝又健志.jpg"
+  },
+  {
+    "index": 39,
+    "id": "builtin-39",
+    "src": "player-icons/icon-39.png",
+    "label": "内川幸太郎",
+    "team": "EX風林火山",
+    "sourceFile": "内川幸太郎.jpg"
+  },
+  {
+    "index": 40,
+    "id": "builtin-40",
+    "src": "player-icons/icon-40.png",
+    "label": "二階堂亜樹",
+    "team": "EX風林火山",
+    "sourceFile": "二階堂亜樹.jpg"
+  },
+  {
+    "index": 41,
+    "id": "builtin-41",
+    "src": "player-icons/icon-41.png",
+    "label": "小林剛",
+    "team": "U-NEXT Pirates",
+    "sourceFile": "小林剛.jpg"
+  },
+  {
+    "index": 42,
+    "id": "builtin-42",
+    "src": "player-icons/icon-42.png",
+    "label": "瑞原明奈",
+    "team": "U-NEXT Pirates",
+    "sourceFile": "瑞原明奈.jpg"
+  },
+  {
+    "index": 43,
+    "id": "builtin-43",
+    "src": "player-icons/icon-43.png",
+    "label": "仲林圭",
+    "team": "U-NEXT Pirates",
+    "sourceFile": "仲林圭.jpg"
+  },
+  {
+    "index": 44,
+    "id": "builtin-44",
+    "src": "player-icons/icon-44.png",
+    "label": "鈴木優",
+    "team": "U-NEXT Pirates",
+    "sourceFile": "鈴木優.jpg"
+  },
+  {
+    "index": 45,
+    "id": "builtin-45",
+    "src": "player-icons/icon-45.png",
+    "label": "多井隆晴",
+    "team": "渋谷ABEMAS",
+    "sourceFile": "多井隆晴.jpg"
+  },
+  {
+    "index": 46,
+    "id": "builtin-46",
+    "src": "player-icons/icon-46.png",
+    "label": "松本吉弘",
+    "team": "渋谷ABEMAS",
+    "sourceFile": "松本吉弘.jpg"
+  },
+  {
+    "index": 47,
+    "id": "builtin-47",
+    "src": "player-icons/icon-47.png",
+    "label": "白鳥翔",
+    "team": "渋谷ABEMAS",
+    "sourceFile": "白鳥翔.jpg"
+  },
+  {
+    "index": 48,
+    "id": "builtin-48",
+    "src": "player-icons/icon-48.png",
+    "label": "日向藍子",
+    "team": "渋谷ABEMAS",
+    "sourceFile": "日向藍子.jpg"
+  },
+  {
+    "index": 49,
+    "id": "builtin-49",
+    "src": "player-icons/icon-49.png",
+    "label": "下石戟",
+    "team": "BEAST X",
+    "sourceFile": "下石戟.jpg"
+  },
+  {
+    "index": 50,
+    "id": "builtin-50",
+    "src": "player-icons/icon-50.png",
+    "label": "中田花奈",
+    "team": "BEAST X",
+    "sourceFile": "中田花奈.jpg"
+  },
+  {
+    "index": 51,
+    "id": "builtin-51",
+    "src": "player-icons/icon-51.png",
+    "label": "東城りお",
+    "team": "BEAST X",
+    "sourceFile": "東城りお.png"
+  },
+  {
+    "index": 52,
+    "id": "builtin-52",
+    "src": "player-icons/icon-52.png",
+    "label": "鈴木大介",
+    "team": "BEAST X",
+    "sourceFile": "鈴木大介.jpg"
+  }
+]
